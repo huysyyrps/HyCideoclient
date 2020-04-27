@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\ic_launcher.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\hahah.jpeg",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-mdpi\\hahah.jpeg"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\release\\drawable-mdpi-v4\\backagepp.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-mdpi\\backagepp.png"
+    }
+]

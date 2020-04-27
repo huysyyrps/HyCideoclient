@@ -1,0 +1,308 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="fill_parent"
+    android:layout_height="fill_parent"
+    android:orientation="vertical"
+    android:baselineAligned="false">    
+ <RelativeLayout
+        android:id="@+id/homepage_titleshe"
+        android:layout_width="fill_parent"
+        android:layout_height="70dp"
+        android:background="#63B8FF" >
+        
+        <ImageView
+            android:id="@+id/btnBackReturnvi"
+            android:layout_width="60dp"
+			android:visibility="gone"
+            android:layout_height="match_parent"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="20dp"
+            android:background="@drawable/back" />
+
+        <TextView
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_alignParentBottom="true"
+            android:layout_alignParentTop="true"
+            android:layout_centerHorizontal="true"
+            android:layout_marginTop="20dp"
+            android:gravity="center_vertical"
+            android:text="设置"
+            android:textColor="#ffffff"
+            android:textSize="18sp" />
+
+        <!-- <ImageView
+            android:layout_width="wrap_content"
+            android:layout_height="match_parent"
+            android:layout_alignParentRight="true"
+            android:layout_alignParentTop="true"
+            android:layout_marginRight="5dp"
+            android:gravity="center"
+            android:src="@drawable/nav02"
+            android:textSize="20sp" /> -->
+
+        
+
+    </RelativeLayout>
+	<LinearLayout
+	    android:id="@+id/llMain"
+	    android:layout_width="fill_parent"
+	    android:layout_height="fill_parent"
+	    android:layout_weight="0.1"
+	    android:orientation="vertical" >
+
+	     <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+	    		    		    
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_web_server_addr"
+	            android:textSize="7pt" >
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtWebServerAddr"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="">
+	        </EditText>
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_web_server_port"
+	            android:textSize="7pt" >
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtWebServerPort"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="" >
+
+	        </EditText>
+	　　    
+	    </LinearLayout>
+	    
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_main_server_addr"
+	            android:textSize="7pt" >
+		　　         
+		　　     
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtMainServerAddr"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="">
+	        </EditText>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_main_server_port"
+	            android:textSize="7pt" >
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtMainServerPort"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="">
+	        </EditText>
+
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+	    		    		    
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_video_server_addr"
+	            android:textSize="7pt" >
+
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtVideoServerAddr"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="">
+	        </EditText>
+	    </LinearLayout>
+
+	    <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_video_server_port"
+	            android:textSize="7pt" >
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtVideoServerPort"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="" >
+	        </EditText>
+	        
+	    </LinearLayout>
+
+	     <LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <TextView
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.6"
+	            android:text="@string/config_text_lb_video_frame_delay"
+	            android:textSize="7pt" >
+	        </TextView>
+
+	        <EditText
+	            android:id="@+id/edtVideoFrameDelay"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.4"
+	            android:hint="" >
+	        </EditText>
+	      
+	　　    
+	    </LinearLayout>
+
+	     <LinearLayout
+	         android:layout_width="fill_parent"
+	         android:layout_height="wrap_content"
+	         android:layout_marginLeft="10dip"
+	         android:layout_marginRight="10dip"
+	         android:gravity="center"
+	         android:orientation="horizontal" >
+
+	         <TextView
+	             android:id="@+id/textView1"
+	             android:layout_width="wrap_content"
+	             android:layout_height="wrap_content"
+	             android:layout_weight="0.66"
+	             android:textSize="7pt" 
+	             android:text="@string/config_text_lb_other" />
+
+	         <Spinner
+	             android:id="@+id/spinnerFormat"
+	             android:layout_width="77dp"
+	             android:layout_height="wrap_content"
+	             android:layout_weight="0.66" />
+
+	         <CheckBox
+				 android:visibility="invisible"
+	             android:id="@+id/config_checkBox1"
+				 android:checked="true"
+	             android:layout_width="wrap_content"
+	             android:layout_height="wrap_content"
+	             android:text="@string/config_text_lb_new_dev" />
+	     </LinearLayout>
+	     
+		<LinearLayout
+	        android:layout_width="fill_parent"
+	        android:layout_height="wrap_content"
+	        android:layout_marginLeft="10dip"
+	        android:layout_marginRight="10dip"
+	        android:layout_marginTop="50dp"
+	        android:gravity="center"
+	        android:orientation="horizontal" >
+
+	        <Button
+	            android:id="@+id/btnConfigSave"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.5"
+	            android:background="#63B8FF"
+	               android:textColor="#ffffff"
+	            android:layout_marginRight="10dp"
+	            android:text="@string/config_text_btn_config_save"
+	            android:textSize="9pt" >
+	        </Button>
+
+	        <Button
+	            android:id="@+id/btnConfigCancel"
+	            android:layout_width="fill_parent"
+	            android:layout_height="wrap_content"
+	            android:layout_weight="0.5"
+	            android:background="#63B8FF"
+	            android:layout_marginLeft="10dp"
+	            android:textColor="#ffffff"
+	            android:text="@string/config_text_btn_config_cancel"
+	            android:textSize="9pt" >
+	　　   		    
+	　　   		
+	        </Button>
+	    </LinearLayout>
+
+	</LinearLayout>
+
+</LinearLayout>

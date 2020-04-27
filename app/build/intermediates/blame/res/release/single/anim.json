@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_out.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\anim\\push_bottom_out.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\release\\anim\\push_bottom_in.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\anim\\push_bottom_in.xml"
+    }
+]

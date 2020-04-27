@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">公交e视频</string>
+    <string name="user_login">用户登录</string>
+    <string name="server_config">视频服务器配置</string>
+    <string name="select_bus">选择车辆和通道</string>
+    <string name="video_main">恒宇视频监控</string>
+    
+    <string name="login_text_lb_login_pos">位置：</string>
+    <string name="login_text_lb_user_name">用户：</string>
+    <string name="login_text_lb_user_pwd">密码：</string>
+    <string name="login_text_cb_save_pwd">记住密码</string>
+    <string name="login_text_btn_user_login">登录</string>
+    <string name="login_text_btn_server_config">配置</string>
+    <string name="login_ckb_password">记住密码</string>
+    <string name="config_text_lb_login_pos">服务器位置：</string>
+    <string name="config_text_lb_web_server_addr">web服务Ip</string>
+    <string name="config_text_lb_web_server_port">web服务端口</string>
+    <string name="config_text_lb_main_server_addr">通讯服务Ip</string>
+    <string name="config_text_lb_main_server_port">通讯服务端口</string>
+    <string name="config_text_lb_video_server_addr">视频服务Ip</string>
+    <string name="config_text_lb_video_server_port">视频服务端口</string>
+    <string name="config_text_lb_video_frame_delay">视频帧间隔</string>
+    <string name="config_text_lb_other">其他</string>
+    <string name="config_text_lb_new_dev">新设备</string>
+    <string name="config_text_btn_config_save">保存</string>
+    <string name="config_text_btn_config_cancel">取消</string>
+    
+    <string name="select_text_lb_line_code">线路：</string>
+    <string name="select_text_lb_bus_code">车辆：</string>
+    <string name="select_text_lb_bus_channel">通道：</string>  
+    <string name="select_text_cb_type_select1">4通道</string>
+    <string name="select_text_cb_type_select2">8通道</string>
+    <string name="select_text_cb_type_select3">自定义</string>
+    <string name="select_text_cb_channel_num1">通道1</string>  
+    <string name="select_text_cb_channel_num2">通道2</string>
+    <string name="select_text_cb_channel_num3">通道3</string>    
+    <string name="select_text_cb_channel_num4">通道4</string>
+    <string name="select_text_cb_channel_num5">通道5</string>
+    <string name="select_text_cb_channel_num6">通道6</string>
+    <string name="select_text_cb_channel_num7">通道7</string>    
+    <string name="select_text_cb_channel_num8">通道8</string>
+    <string name="select_text_btn_next_step">下一步</string>
+    <string name="select_text_btn_back_return">返回</string>
+    <string name="config_text_lb_video_frame_format">视频类型</string>
+    
+</resources>

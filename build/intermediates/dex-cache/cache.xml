@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="D:\kaifa\android\sdk\extras\android\m2repository\com\android\support\support-v4\19.1.0\support-v4-19.1.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67">
+        <dex dex="F:\anzhong\HyVideoClient1\app\build\intermediates\pre-dexed\debug\support-v4-19.1.0_892cb7ea2f5da337e563786f2d981f33e335bfc2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="F:\anzhong\HyVideoClient1\app\libs\android-async-http-1.4.4.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="28.0.3"
+        sha1="3bae85a076241828810bf8fbcc12e5891d5fc34c">
+        <dex dex="F:\anzhong\HyVideoClient1\app\build\intermediates\pre-dexed\debug\android-async-http-1.4.4_41b5fb87cb1af9dc4db874b02eb648d7245baa73.jar" />
+    </item>
+
+</items>

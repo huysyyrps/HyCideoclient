@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.sdhy.video.client"
+    android:versionCode="25"
+    android:versionName="2.3" >
+
+    <uses-sdk
+        android:minSdkVersion="17"
+        android:targetSdkVersion="26" />
+
+    <uses-permission android:name="android.permission.MEDIA_CONTENT_CONTROL" />
+    <uses-permission android:name="android.permission.MODIFY_AUDIO_SETTINGS" />
+    <uses-permission android:name="android.permission.READ_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.WRITE_EXTERNAL_STORAGE" />
+    <uses-permission android:name="android.permission.INTERNET" />
+    <uses-permission android:name="android.permission.MOUNT_UNMOUNT_FILESYSTEMS" />
+    <!-- 检查网络状态 -->
+    <uses-permission android:name="android.permission.ACCESS_NETWORK_STATE" />
+
+    <application
+        android:name="com.sdhy.video.client.MyApplication"
+        android:allowBackup="false"
+        android:icon="@drawable/ic_launcher"
+        android:label="@string/app_name"
+        android:theme="@style/AppTheme" >
+        <activity
+            android:name="com.sdhy.video.client.UserLoginActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/app_name"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateAlwaysVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sdhy.video.client.ServerConfigActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/server_config"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateAlwaysVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.sdhy.video.client.BusSelectActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/select_bus"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateAlwaysVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+
+        <!--
+              <activity
+            android:name=".VideoMainActivity"
+            android:label="@string/video_main" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        -->
+
+        <activity
+            android:name="com.sdhy.video.client.MainViewActivity"
+            android:configChanges="keyboardHidden|orientation|screenSize"
+            android:label="@string/video_main"
+            android:theme="@style/AppTheme"
+            android:windowSoftInputMode="adjustPan|stateAlwaysVisible" >
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+            </intent-filter>
+        </activity>
+        <activity
+            android:name="com.component.DatePickActivity"
+            android:theme="@style/MyDialogStyleBottom" >
+        </activity>
+        <activity android:name="com.sdhy.video.client.TreatyActivity" >
+        </activity>
+    </application>
+
+</manifest>

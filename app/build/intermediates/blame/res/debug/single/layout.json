@@ -1,0 +1,42 @@
+[
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\select.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\select.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\down.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\down.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\config.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\config.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\progress.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\progress.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\adapter_bus.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\adapter_bus.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_treaty.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\activity_treaty.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\login.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\login.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\activity_date_pick.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\activity_date_pick.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\loading.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\loading.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\layout\\main.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\layout\\main.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Mar 03 17:12:05 CST 2020
+base.0=F\:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main
+renamed.0=classes.dex
+file.0=F\:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\transforms\\dex\\release\\folders\\1000\\1f\\main\\classes.dex

@@ -1,0 +1,30 @@
+[
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\hahah.jpeg",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\hahah.jpeg"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\backagepp.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\backagepp.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\loading.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\loading.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_pressed.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_pressed.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\search_clear_normal.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\search_clear_normal.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\ic_launcher.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable-hdpi-v4\\back.png",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable-hdpi\\back.png"
+    }
+]

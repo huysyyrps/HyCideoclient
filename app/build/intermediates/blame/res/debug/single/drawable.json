@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_nan.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable\\radio_nan.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\radio_nv.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable\\radio_nv.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\progressloading.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable\\progressloading.xml"
+    },
+    {
+        "merged": "F:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\merged\\debug\\drawable\\delete_selector.xml",
+        "source": "F:\\anzhong\\HyVideoClient1\\app\\src\\main\\res\\drawable\\delete_selector.xml"
+    }
+]

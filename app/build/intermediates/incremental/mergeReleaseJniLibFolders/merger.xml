@@ -1,0 +1,2 @@
+<?xml version="1.0" encoding="utf-8"?>
+<merger version="3"><dataSet config="main"><source path="F:\anzhong\HyVideoClient1\app\src\main\jniLibs"><file name="armeabi/libADPCM.so" path="F:\anzhong\HyVideoClient1\app\src\main\jniLibs\armeabi\libADPCM.so"/><file name="armeabi/libh264.so" path="F:\anzhong\HyVideoClient1\app\src\main\jniLibs\armeabi\libh264.so"/></source></dataSet><dataSet config="release"><source path="F:\anzhong\HyVideoClient1\app\src\release\jniLibs"/></dataSet></merger>
