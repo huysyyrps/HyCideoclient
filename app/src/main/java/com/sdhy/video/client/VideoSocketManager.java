@@ -294,6 +294,7 @@ public class VideoSocketManager extends SocketManager {
 //                String s1 = byte2hex(actionMsg1);
 //                Log.e("YYY",s1);
                 sendMsg(actionMsg1);
+
             } else {
                 sendMsg(actionMsg);
                 controlAudio(lineCode, busCode, (byte) chl, true, beginTime, endTime);

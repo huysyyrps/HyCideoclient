@@ -1,5 +1,5 @@
 #Internal package file, do not edit.
-#Mon Apr 27 15:11:30 CST 2020
+#Mon Apr 27 19:58:04 CST 2020
 25.file=F\:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\resources-debug.ap_\\AndroidManifest.xml
 25.base=F\:\\anzhong\\HyVideoClient1\\app\\build\\intermediates\\res\\resources-debug.ap_
 22.set=ANDROID_RESOURCE
